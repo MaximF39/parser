@@ -1,1 +1,1 @@
-My utils for send products and categories
+The utils file, which helps in working with parser and the igrotoys parser
